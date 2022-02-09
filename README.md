@@ -18,8 +18,8 @@
  ##
 <br> 
 <div>
-   <a href="https://www.linkedin.com/in/maria-sousa-41a14221a" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>
-  <a href="https://www.behance.net/mahsousa" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/maria-sousa-41a14221a" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
+  <a href="https://www.behance.net/mahsousa" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg"></a>
 </div>
   
  ##
