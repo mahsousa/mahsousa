@@ -25,7 +25,7 @@
  ##
   
 - 🔭 Hoje trabalho com Front-end 
-- 🌱 Estou estudando React.JS
+- 🌱 Estou estudando .NET
 - ⚡ Curiosidades: Além de codar eu gosto de desenvolver/desenhar os layouts
 - 😄 Pronomes: Ela/Dela
 
