@@ -24,10 +24,14 @@
   
  ##
   
-- 🔭 Hoje trabalho com Front-end 
-- 🌱 Estou estudando .NET
-- ⚡ Curiosidades: Além de codar eu gosto de desenvolver/desenhar os layouts
-- 😄 Pronomes: Ela/Dela
+Como Desenvolvedor FullStack, atuei em projetos tanto como front-end quanto back
+end (fullstack), além de projetos de desenvolvimento de jogos com C# e Java, e 
+manutenção de aplicações web, adquirindo sólidos conhecimentos em algoritmos e 
+programação orientada a objetos. Desenvolvi APIs Restful utilizando Git e GitHub para 
+controle de versão. Utilizo sempre boas práticas de programação, como SOLID e Clean 
+Code, além de realizar testes unitários para garantir a saúde das aplicações. 
+Atualmente, estou envolvida em projetos paralelos, onde aplico e aprimoro esses 
+conhecimentos 
 
 
 
