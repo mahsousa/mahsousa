@@ -31,7 +31,7 @@ programação orientada a objetos. Desenvolvi APIs Restful utilizando Git e GitH
 controle de versão. Utilizo sempre boas práticas de programação, como SOLID e Clean 
 Code, além de realizar testes unitários para garantir a saúde das aplicações. 
 Atualmente, estou envolvida em projetos paralelos, onde aplico e aprimoro esses 
-conhecimentos 
+conhecimentos.
 
 
 
